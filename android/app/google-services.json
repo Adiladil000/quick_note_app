@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934798220552",
+    "project_id": "quicknotefirebase-d886d",
+    "storage_bucket": "quicknotefirebase-d886d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934798220552:android:b168b8a748fa31293ae0bd",
+        "android_client_info": {
+          "package_name": "com.hesenovadil.quicknoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934798220552-8qfjb4p0s56arub8tdocthvdgdh83kes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNRY6unDoFmdWi9JpjbxKtJTn0ZhbZTK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934798220552-8qfjb4p0s56arub8tdocthvdgdh83kes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
